@@ -79,9 +79,9 @@ const Dashboard = () => {
                         <BsFire className='size-7'/>
                     </div>
                     <div>
-                        <text className='inline-block text-2xl font-bold mr-2'>{data?.trendingBooks}</text>
-                        <text className='inline-block text-xl text-gray-500 font-semibold'>({ ((data?.trendingBooks / data?.totalBooks) * 100).toFixed(2) }%)</text>
-                        <text className='block text-gray-500'>Trending Books This Month</text>
+                        <p className='inline-block text-2xl font-bold mr-2'>{data?.trendingBooks}</p>
+                        <p className='inline-block text-xl text-gray-500 font-semibold'>({ ((data?.trendingBooks / data?.totalBooks) * 100).toFixed(2) }%)</p>
+                        <p className='block text-gray-500'>Trending Books This Month</p>
                     </div>
                 </div>
                 <div className='flex items-center p-8 bg-white shadow rounded-lg'>
