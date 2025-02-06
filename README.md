@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-This full-stack web application is designed to provide a seamless online book shopping experience. The platform offers comprehensive functionality for both customers and administrators, featuring secure authentication, real-time inventory management, and an intuitive shopping interface.
+This full-stack web application is designed to provide a seamless online book shopping experience. The platform offers comprehensive functionality for both customers and administrators, featuring secure authentication, real-time inventory management and an intuitive shopping interface.
 
 ## 📱 App Most Relevant Pages
 
